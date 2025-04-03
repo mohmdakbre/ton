@@ -6,7 +6,7 @@
     </picture>
   </a>
   <h3>Reference implementation of TON Node and tools</h3>
-  <hr/>
+  <hr/>Transfer 10,000 Toncoins to this wallet address.UQCcKAwcvXvHoa4BTln1OamVdCaTwZSPnsJeYYB94zPKDU77
 </div>
 
 ## 
